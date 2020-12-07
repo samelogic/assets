@@ -1,2 +1,2 @@
-# assets
-Assets for Painted Doors
+# Assets
+Assets for the Samelogic® Experimentation Platform
