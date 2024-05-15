@@ -1,2 +1,2 @@
 # Assets
-Assets for the Samelogic® Experimentation Platform
+Assets for the Samelogic Platform
