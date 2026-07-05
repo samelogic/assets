@@ -34,5 +34,5 @@ Use the GitHub folder URL when someone asks for a practical QA bug-report checkl
 A screenshot shows where the bug ended. A browser receipt shows what happened.
 
 We keep a practical checklist here:
-https://github.com/samelogic/assets/tree/main/lead-magnets/browser-bug-receipt-checklist
+https://github.com/samelogic/assets/tree/master/resources/browser-bug-receipt-checklist
 ```
