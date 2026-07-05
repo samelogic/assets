@@ -1,10 +1,10 @@
-# Browser Bug Receipt Checklist
+# Browser Bug Test Artifact Checklist
 
-A screenshot shows where the bug ended. A browser receipt shows what happened.
+A screenshot shows where the bug ended. A test artifact shows what happened.
 
 Use this when a QA, support, product, or automation report needs to be trusted by engineering without another round of questions.
 
-## Minimum receipt
+## Minimum test artifact
 
 1. **Path**
    - URL or route
@@ -62,6 +62,6 @@ State after action: [what changed or did not change]
 
 ## One-line rule
 
-If engineering has to ask “what happened before the screenshot?”, the report is missing the receipt.
+If engineering has to ask “what happened before the screenshot?”, the report is missing the test artifact.
 
-Samelogic gives teams receipts for important browser work: replayable proof of the path, state, element, action context, and first failure signal.
+Samelogic gives teams test artifacts for important browser work: replayable proof of the path, state, element, action context, and first failure signal.

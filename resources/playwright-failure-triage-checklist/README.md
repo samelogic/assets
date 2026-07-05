@@ -72,12 +72,12 @@ Repro pattern:
 
 ## Related resources
 
-- [Browser Bug Receipt Checklist](../browser-bug-receipt-checklist/)
+- [Browser Bug Test Artifact Checklist](../browser-bug-test-artifact-checklist/)
 - [Can't Reproduce Bug Report Template](../cant-reproduce-bug-report-template/)
 
 ## Built by Samelogic
 
-Samelogic gives teams receipts for important browser work: the path, state, action, and first failure signal behind browser bugs.
+Samelogic gives teams test artifacts for important browser work: the path, state, action, and first failure signal behind browser bugs.
 
 - Website: https://samelogic.com
 - Chrome Web Store: https://chromewebstore.google.com/detail/bmgbagkoginmbbgjapcacehjdojdnnhf

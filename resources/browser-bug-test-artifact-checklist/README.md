@@ -1,12 +1,12 @@
-# Browser Bug Receipt Checklist
+# Browser Bug Test Artifact Checklist
 
-A screenshot shows where the bug ended. A browser receipt shows what happened.
+A screenshot shows where the bug ended. A test artifact shows what happened.
 
 This is a Samelogic public resource for QA, support, product, and engineering teams that need browser bug reports developers can actually trust.
 
 ## Download
 
-- [Markdown checklist](./browser-bug-receipt-checklist.md)
+- [Markdown checklist](./browser-bug-test-artifact-checklist.md)
 
 ## Why this exists
 
@@ -16,7 +16,7 @@ Use this checklist when a bug report, support escalation, QA artifact, or browse
 
 ## One-line rule
 
-If engineering has to ask “what happened before the screenshot?”, the report is missing the receipt.
+If engineering has to ask “what happened before the screenshot?”, the report is missing the test artifact.
 
 ## Related resources
 
@@ -25,7 +25,7 @@ If engineering has to ask “what happened before the screenshot?”, the report
 
 ## Built by Samelogic
 
-Samelogic gives teams receipts for important browser work: replayable proof of the path, state, element, action context, and first failure signal.
+Samelogic gives teams test artifacts for important browser work: replayable proof of the path, state, element, action context, and first failure signal.
 
 - Website: https://samelogic.com
 - Chrome Web Store: https://chromewebstore.google.com/detail/bmgbagkoginmbbgjapcacehjdojdnnhf
@@ -36,8 +36,8 @@ Samelogic gives teams receipts for important browser work: replayable proof of t
 Use the GitHub folder URL when someone asks for a practical QA bug-report checklist or a better way to describe “cannot reproduce” browser bugs:
 
 ```text
-A screenshot shows where the bug ended. A browser receipt shows what happened.
+A screenshot shows where the bug ended. A test artifact shows what happened.
 
 We keep a practical checklist here:
-https://github.com/samelogic/assets/tree/master/resources/browser-bug-receipt-checklist
+https://github.com/samelogic/assets/tree/master/resources/browser-bug-test-artifact-checklist
 ```
