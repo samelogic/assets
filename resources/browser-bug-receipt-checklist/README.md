@@ -2,7 +2,7 @@
 
 A screenshot shows where the bug ended. A browser receipt shows what happened.
 
-This is a Samelogic lead magnet for QA, support, product, and engineering teams that need browser bug reports developers can actually trust.
+This is a Samelogic public resource for QA, support, product, and engineering teams that need browser bug reports developers can actually trust.
 
 ## Download
 
@@ -17,6 +17,11 @@ Use this checklist when a bug report, support escalation, QA artifact, or browse
 ## One-line rule
 
 If engineering has to ask “what happened before the screenshot?”, the report is missing the receipt.
+
+## Related resources
+
+- [Can't Reproduce Bug Report Template](../cant-reproduce-bug-report-template/)
+- [Playwright Failure Triage Checklist](../playwright-failure-triage-checklist/)
 
 ## Built by Samelogic
 
