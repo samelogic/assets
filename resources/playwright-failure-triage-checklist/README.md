@@ -1,6 +1,8 @@
 # Playwright Failure Triage Checklist
 
-Use this when a Playwright failure needs to become a clean handoff instead of another vague flaky-test thread.
+Use this when a Playwright, Cypress, or browser E2E failure needs to become a clean handoff instead of another vague flaky-test thread.
+
+Best fit: CI-only failures, WebKit/browser-specific flakes, timeout loops, missing trace/video evidence, and test failures where the final assertion is visible but the first failure signal is not.
 
 ## Triage fields
 
