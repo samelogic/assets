@@ -64,6 +64,7 @@ Before marking a browser bug as “cannot reproduce,” ask:
 ## Related resources
 
 - [Browser Bug Test Artifact Checklist](../browser-bug-test-artifact-checklist/)
+- [Playwright Failure Triage Checklist](../playwright-failure-triage-checklist/) — useful when a “cannot reproduce” browser bug is coming from CI, traces, screenshots, videos, or a flaky E2E failure.
 
 ## Built by Samelogic
 
