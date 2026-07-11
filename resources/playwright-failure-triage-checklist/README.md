@@ -72,6 +72,20 @@ Repro pattern:
 [local/CI/browser/retry behavior]
 ```
 
+## Verify a fix without hiding the failure
+
+A single green retry does not establish that a flaky browser failure is fixed. Run the affected test repeatedly in the failing browser and retain artifacts for every failure.
+
+For each failure, record:
+
+- the repeat number and browser/CI environment
+- the first failure signal
+- the screenshot or video
+- the trace/HAR and console output when available
+- the observed state that the assertion evaluated (for example, computed text, URL, or element state)
+
+This separates a repaired synchronization problem from a retry that merely missed the same race.
+
 ## Related resources
 
 - [Browser Bug Test Artifact Checklist](../browser-bug-test-artifact-checklist/)
