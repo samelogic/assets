@@ -1,5 +1,13 @@
 # Browser Bug Test Artifact Checklist
 
+## Create test artifacts with the Samelogic Chrome extension
+
+You can create the test artifacts described in this guide directly from your browser. The Samelogic Chrome extension makes it easy to capture and share replayable proof of the path, page state, element, action, and first failure signal behind a browser bug.
+
+- [Install the Samelogic Chrome extension](https://chromewebstore.google.com/detail/css-selector-for-google-c/bmgbagkoginmbbgjapcacehjdojdnnhf?hl=en)
+- [Learn more about Samelogic](https://samelogic.com)
+- [Visit Samelogic on GitHub](https://github.com/samelogic)
+
 A screenshot shows where the bug ended. A test artifact shows what happened.
 
 This is a Samelogic public resource for QA, support, product, and engineering teams that need browser bug reports developers can actually trust.
@@ -22,14 +30,6 @@ If engineering has to ask “what happened before the screenshot?”, the report
 
 - [Can't Reproduce Bug Report Template](../cant-reproduce-bug-report-template/)
 - [Playwright Failure Triage Checklist](../playwright-failure-triage-checklist/)
-
-## Built by Samelogic
-
-Samelogic gives teams test artifacts for important browser work: replayable proof of the path, state, element, action context, and first failure signal.
-
-- Website: https://samelogic.com
-- Chrome Web Store: https://chromewebstore.google.com/detail/css-selector-for-google-c/bmgbagkoginmbbgjapcacehjdojdnnhf?hl=en
-- GitHub org: https://github.com/samelogic
 
 ## Use this in public replies
 

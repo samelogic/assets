@@ -1,5 +1,12 @@
 # Can't Reproduce Bug Report Template
 
+## Create test artifacts with the Samelogic Chrome extension
+
+You can create the test artifacts described in this guide directly from your browser. The Samelogic Chrome extension makes it easy to capture and share replayable proof of the path, page state, element, action, and first failure signal behind a browser bug.
+
+- [Install the Samelogic Chrome extension](https://chromewebstore.google.com/detail/css-selector-for-google-c/bmgbagkoginmbbgjapcacehjdojdnnhf?hl=en)
+- [Learn more about Samelogic](https://samelogic.com)
+
 Use this when a browser bug gets stuck because the report shows the final broken screen but not the trail that got there.
 
 ## Copy/paste template
@@ -65,10 +72,3 @@ Before marking a browser bug as “cannot reproduce,” ask:
 
 - [Browser Bug Test Artifact Checklist](../browser-bug-test-artifact-checklist/)
 - [Playwright Failure Triage Checklist](../playwright-failure-triage-checklist/) — useful when a “cannot reproduce” browser bug is coming from CI, traces, screenshots, videos, or a flaky E2E failure.
-
-## Built by Samelogic
-
-Samelogic gives teams test artifacts for important browser work: the path, state, action, and first failure signal behind browser bugs.
-
-- Website: https://samelogic.com
-- Chrome Web Store: https://chromewebstore.google.com/detail/css-selector-for-google-c/bmgbagkoginmbbgjapcacehjdojdnnhf?hl=en

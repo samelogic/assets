@@ -1,5 +1,12 @@
 # Playwright Failure Triage Checklist
 
+## Create test artifacts with the Samelogic Chrome extension
+
+You can create the test artifacts described in this guide directly from your browser. The Samelogic Chrome extension makes it easy to capture and share replayable proof of the path, page state, element, action, and first failure signal behind a browser bug.
+
+- [Install the Samelogic Chrome extension](https://chromewebstore.google.com/detail/css-selector-for-google-c/bmgbagkoginmbbgjapcacehjdojdnnhf?hl=en)
+- [Learn more about Samelogic](https://samelogic.com)
+
 Use this when a Playwright, Cypress, or browser E2E failure needs to become a clean handoff instead of another vague flaky-test thread.
 
 Best fit: CI-only failures, WebKit/browser-specific flakes, timeout loops, missing trace/video evidence, and test failures where the final assertion is visible but the first failure signal is not.
@@ -90,10 +97,3 @@ This separates a repaired synchronization problem from a retry that merely misse
 
 - [Browser Bug Test Artifact Checklist](../browser-bug-test-artifact-checklist/)
 - [Can't Reproduce Bug Report Template](../cant-reproduce-bug-report-template/)
-
-## Built by Samelogic
-
-Samelogic gives teams test artifacts for important browser work: the path, state, action, and first failure signal behind browser bugs.
-
-- Website: https://samelogic.com
-- Chrome Web Store: https://chromewebstore.google.com/detail/css-selector-for-google-c/bmgbagkoginmbbgjapcacehjdojdnnhf?hl=en
