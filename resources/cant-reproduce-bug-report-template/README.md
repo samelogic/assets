@@ -71,4 +71,4 @@ Before marking a browser bug as “cannot reproduce,” ask:
 Samelogic gives teams test artifacts for important browser work: the path, state, action, and first failure signal behind browser bugs.
 
 - Website: https://samelogic.com
-- Chrome Web Store: https://chromewebstore.google.com/detail/bmgbagkoginmbbgjapcacehjdojdnnhf
+- Chrome Web Store: https://chromewebstore.google.com/detail/css-selector-for-google-c/bmgbagkoginmbbgjapcacehjdojdnnhf?hl=en

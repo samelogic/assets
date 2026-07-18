@@ -28,7 +28,7 @@ If engineering has to ask “what happened before the screenshot?”, the report
 Samelogic gives teams test artifacts for important browser work: replayable proof of the path, state, element, action context, and first failure signal.
 
 - Website: https://samelogic.com
-- Chrome Web Store: https://chromewebstore.google.com/detail/bmgbagkoginmbbgjapcacehjdojdnnhf
+- Chrome Web Store: https://chromewebstore.google.com/detail/css-selector-for-google-c/bmgbagkoginmbbgjapcacehjdojdnnhf?hl=en
 - GitHub org: https://github.com/samelogic
 
 ## Use this in public replies

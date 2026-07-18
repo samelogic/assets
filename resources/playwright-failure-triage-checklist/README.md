@@ -96,4 +96,4 @@ This separates a repaired synchronization problem from a retry that merely misse
 Samelogic gives teams test artifacts for important browser work: the path, state, action, and first failure signal behind browser bugs.
 
 - Website: https://samelogic.com
-- Chrome Web Store: https://chromewebstore.google.com/detail/bmgbagkoginmbbgjapcacehjdojdnnhf
+- Chrome Web Store: https://chromewebstore.google.com/detail/css-selector-for-google-c/bmgbagkoginmbbgjapcacehjdojdnnhf?hl=en
