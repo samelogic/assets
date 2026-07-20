@@ -1,4 +1,4 @@
-# Browser Bug Receipt Checklist
+# Moved: Browser Bug Test Artifact Checklist
 
 This resource has moved to the [Browser Bug Test Artifact Checklist](../browser-bug-test-artifact-checklist/).
 
