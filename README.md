@@ -16,6 +16,14 @@ Public assets and resources for the Samelogic platform.
 | A maintainer says they cannot reproduce the bug, or a report is missing the first failure signal | [Can't Reproduce Bug Report Template](./resources/cant-reproduce-bug-report-template/) |
 | A Playwright/Cypress failure is flaky, CI-only, or missing trace/video/network evidence | [Playwright Failure Triage Checklist](./resources/playwright-failure-triage-checklist/) |
 
+## Recommended flow
+
+When a bug report is hard to validate, the quickest path that keeps momentum is:
+
+1. Start at [Can't Reproduce Bug Report Template](./resources/cant-reproduce-bug-report-template/) to force the missing first signal.
+2. If the report already includes a route and first-failure path, move to [Browser Bug Test Artifact Checklist](./resources/browser-bug-test-artifact-checklist/) for reproducible handoff.
+3. For CI-only flaky tests with traces/videos/network, add [Playwright Failure Triage Checklist](./resources/playwright-failure-triage-checklist/) as the final pass.
+
 ## Product links
 
 - Website: https://samelogic.com
